@@ -6,34 +6,32 @@ This model is to predict the maintenance cost of the cars based on the model, ma
 
 # High-level Code Description
 
-![image](https://user-images.githubusercontent.com/92556291/137748237-631ae6fe-5dae-44be-a4f7-181e52158eb3.png)
+![image](https://user-images.githubusercontent.com/92556291/137751649-89c11730-287e-4d6e-b4b8-a1ce2c290cbd.png)
 
-![image](https://user-images.githubusercontent.com/92556291/137748662-e4d408b0-ee38-4a2e-b760-35a42f5b9837.png)
-
+![image](https://user-images.githubusercontent.com/92556291/137751729-c520f076-f439-430d-bda3-96464f3bd625.png)
 
 ![image](https://user-images.githubusercontent.com/92556291/137427649-a823dbe6-cad4-4a5e-a1fe-e81ac6a3a071.png)
 ![image](https://user-images.githubusercontent.com/92556291/137427666-5b026ab6-6bd9-4aec-a205-8fdf461733f7.png)
-![image](https://user-images.githubusercontent.com/92556291/137427690-d51ae58b-79fc-467a-80a6-b55ab95d0408.png)
 
-![image](https://user-images.githubusercontent.com/92556291/137748965-432cdd70-a69c-41a8-98a6-86ca1d80035f.png)
+![image](https://user-images.githubusercontent.com/92556291/137751898-8b9fd268-2e1e-4007-b5e3-06fb07d91b3a.png)
+
+Result on the Formula for Georgia 
+![image](https://user-images.githubusercontent.com/92556291/137752132-caa842a1-3d2e-4e00-b8a4-e83db08dada6.png)
 
 
-1. Bucketing the cars according to their body types and aligning the values to our dataset so that we can have a comprehensive model.
-2. Miles driven also plays a major role in calculating the maintenance cost, most of the cars have similar sets of routine maintenance to be done whenever the miles are reached.
+
+1. The maintenance cost is fluctuated by Maintenance Services and time to complete service as they are varying based on the miles driven , category, make and model of the vehicle.
+2. The maintenance cost are majorly influenced by the parts cost of each vehicle, labor wage and taxes in each state.
 
 
 # Data Sources
 
-1. https://www.kbb.com/new-cars/total-cost-of-ownership/
+1. 1.https://repairpal.com/estimator
 
 2. https://www.carmd.com/wp/vehicle-health-index-introduction/2020-carmd-state-index/
 
 3. https://www.bls.gov/oes/current/naics3_811000.htm
 
-4. https://www.autozone.com/filters-and-pcv/cabin-air-filter
-
-5. https://taxfoundation.org/publications/state-and-local-sales-tax-rates/
-
-6. https://parts.mariettatoyota.com/a/Toyota_2019_Camry-Sedan-25L/_72779_7171680/Air-Intake-Filter/maintenance_AirIntakeFilter.html
-
-7. https://parts.mariettatoyota.com/a/Toyota_2019_Camry-Sedan-25L/_72779_7171687/Cabin-Filter/maintenance_CabinFilter.html
+4. https://taxfoundation.org/publications/state-and-local-sales-tax-rates/
+ 
+5. https://www.kbb.com/new-cars/total-cost-of-ownership/
