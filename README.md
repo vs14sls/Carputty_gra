@@ -29,7 +29,7 @@ Below is the formula for Maintenance cost based on the time, Hourly Labor cost, 
 
 # Data Sources
 
-1. 1.https://repairpal.com/estimator
+1. https://repairpal.com/estimator
 
 2. https://www.carmd.com/wp/vehicle-health-index-introduction/2020-carmd-state-index/
 
