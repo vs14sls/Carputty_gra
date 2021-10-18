@@ -5,6 +5,7 @@ This prediction model forecasts the car monthly maintenance costs. It includes t
 This model is to predict the maintenance cost of the cars based on the model, make and location.
 
 # High-level Code Description
+Below is the formula for Maintenance cost based on the time, Hourly Labor cost, Parts cost and Taxes.
 
 ![image](https://user-images.githubusercontent.com/92556291/137751649-89c11730-287e-4d6e-b4b8-a1ce2c290cbd.png)
 
@@ -17,7 +18,7 @@ This model is to predict the maintenance cost of the cars based on the model, ma
 
 ![image](https://user-images.githubusercontent.com/92556291/137755250-7f2dfd44-8c9c-4181-b451-910c83f50fa8.png)
 
-Result on the Formula for Georgia 
+**Result on the Formula for Georgia **
 ![image](https://user-images.githubusercontent.com/92556291/137752132-caa842a1-3d2e-4e00-b8a4-e83db08dada6.png)
 
 
