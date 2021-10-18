@@ -5,9 +5,18 @@ This prediction model forecasts the car monthly maintenance costs. It includes t
 
 
 # High-level Code Description
+
+![image](https://user-images.githubusercontent.com/92556291/137748237-631ae6fe-5dae-44be-a4f7-181e52158eb3.png)
+
+![image](https://user-images.githubusercontent.com/92556291/137748662-e4d408b0-ee38-4a2e-b760-35a42f5b9837.png)
+
+
 ![image](https://user-images.githubusercontent.com/92556291/137427649-a823dbe6-cad4-4a5e-a1fe-e81ac6a3a071.png)
 ![image](https://user-images.githubusercontent.com/92556291/137427666-5b026ab6-6bd9-4aec-a205-8fdf461733f7.png)
 ![image](https://user-images.githubusercontent.com/92556291/137427690-d51ae58b-79fc-467a-80a6-b55ab95d0408.png)
+
+![image](https://user-images.githubusercontent.com/92556291/137748965-432cdd70-a69c-41a8-98a6-86ca1d80035f.png)
+
 
 1. Bucketing the cars according to their body types and aligning the values to our dataset so that we can have a comprehensive model.
 2. Miles driven also plays a major role in calculating the maintenance cost, most of the cars have similar sets of routine maintenance to be done whenever the miles are reached.
