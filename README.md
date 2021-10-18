@@ -2,7 +2,7 @@
 This prediction model forecasts the car monthly maintenance costs. It includes the factors that severely affect car performance and raises maintenance demands toward ensuring vehicle reliability and optimum performance. It direclty helps Customers to know what their car was worth of, what it’s worth now and what it will be after 60 months. Their decision will be dependent on the machine learning methods.
 
 # Introduction
-
+This model is to predict the maintenance cost of the cars based on the model, make and location.
 
 # High-level Code Description
 
