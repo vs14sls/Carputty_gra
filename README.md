@@ -15,6 +15,8 @@ This model is to predict the maintenance cost of the cars based on the model, ma
 
 ![image](https://user-images.githubusercontent.com/92556291/137751898-8b9fd268-2e1e-4007-b5e3-06fb07d91b3a.png)
 
+![image](https://user-images.githubusercontent.com/92556291/137755250-7f2dfd44-8c9c-4181-b451-910c83f50fa8.png)
+
 Result on the Formula for Georgia 
 ![image](https://user-images.githubusercontent.com/92556291/137752132-caa842a1-3d2e-4e00-b8a4-e83db08dada6.png)
 
